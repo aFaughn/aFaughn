@@ -4,7 +4,7 @@
   <br>
   <sup><p align='center'>>Queue Dramatic Music</p></sup>
   <p align='center' >I'm a Junior Software Engineer graduated from App Academy in August of 2022. I love coding and gaming, (usually Dark Souls or Dead By Daylight). Recently I've been getting my literature game up. I'm currently reading The Haunting of Hill House by Shirley Jackson. I have an affinity for Horror and my favorite holiday is 🦴💀Spooky Day!💀🦴</p> 
-  <h3 align='center'>Some Technologies I'm Familiar With</h3>
+  <h3 align='center'>Technologies I'm Familiar With</h3>
   <div align='center'>
     <img src='https://img.shields.io/badge/-Python-gray?logo=python&style=for-the-badge'>
     <img src='https://img.shields.io/badge/-JavaScript-gray?logo=javascript&style=for-the-badge'>
@@ -18,7 +18,7 @@
     <img src='https://img.shields.io/badge/-CSS3-gray?logo=css3&style=for-the-badge'> <!--- css3 !-->
   </div>
   <div align='center'>
-    <h2>Some project's I've been working on</h2>
+    <h2>Project's I've been working on</h2>
       <li><a href='https://humanitsy.herokuapp.com'>Humanitsy</a> -- An Etsy clone themed around Dark Souls ⚔🤺
       <li><a href='https://opentableproject.herokuapp.com'>TableOpen</a> -- An OpenTable clone, come reserve a seat 🍔🍕
       <li><a href='https://inscryptr.herokuapp.com'>Inscryptr</a> -- A Flickr clone themed around Inscryption 🃏🦌
