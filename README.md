@@ -18,7 +18,7 @@
     <img src='https://img.shields.io/badge/-CSS3-gray?logo=css3&style=for-the-badge'> <!--- css3 !-->
   </div>
   <div align='center'>
-    <h2>Project's I've been working on</h2>
+    <h2>Projects I've been working on</h2>
       <li><a href='https://humanitsy.herokuapp.com'>Humanitsy</a> -- An Etsy clone themed around Dark Souls ⚔🤺
       <li><a href='https://opentableproject.herokuapp.com'>TableOpen</a> -- An OpenTable clone, come reserve a seat 🍔🍕
       <li><a href='https://inscryptr.herokuapp.com'>Inscryptr</a> -- A Flickr clone themed around Inscryption 🃏🦌
