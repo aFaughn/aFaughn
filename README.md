@@ -3,6 +3,7 @@
   <h3 align='center'>🦖🦕🦖🦕🦖🦕</h3>
   <br>
   <sup><p align='center'>>Queue Dramatic Music</p></sup>
+  <p align='center' >I'm a Junior Software Engineer graduated from App Academy in August of 2022. I love coding and gaming, (usually Dark Souls or Dead By Daylight). Recently I've been getting my literature game up. I'm currently reading The Haunting of Hill House by Shirley Jackson. I have an affinity for Horror and my favorite holiday is 🦴💀Spooky Day!💀🦴</p> 
   <h3 align='center'>Some Technologies I'm Familiar With</h3>
   <div align='center'>
     <img src='https://img.shields.io/badge/-Python-gray?logo=python&style=for-the-badge'>
@@ -28,4 +29,16 @@
       <li>Game 🎮
       <li>Watch Movies 🎥
       <li>Indulge a crippling crab addiction 🦀
+  </div>
+  <div align='center'>
+    <h3>🔻 Hit me up on LinkedIn or check out my AngelList 🔻</h3>
+    <a href='https://www.linkedin.com/in/allen-faughn/'><img src='https://shields.io/badge/linkedIn-allenfaughn-blue?logo=linkedin&style=for-the-badge'></a>
+    <a href='https://angel.co/u/allen-faughn'><img src='https://shields.io/badge/AngelList-allenfaughn-blue?logo=angellist&style=for-the-badge'></a>
+  </div>
+  <div>
+    <br>
+    <div align='right'>
+    <img src='https://i.imgur.com/F9rEKgt.png'>
+    <img src='https://i.imgur.com/1EKDoZz.png'>
+    </div>
   </div>
