@@ -27,7 +27,7 @@
     <h2>Things I Do When I'm Not Coding</h2>
       <li>Be a human cat bed 🐱
       <li>Dehydrate my sense of humor
-      <li>Read Horror Novels. Currently Reading: House of Leaves by Mark Danielewski
+    <li>Read Horror Novels. Currently Reading: <i>House of Leaves</i> by Mark Danielewski
       <li>Indulge a crippling crab-leg addiction 🦀
   </div>
   <div align='center'>
