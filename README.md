@@ -33,7 +33,7 @@
   <div align='center'>
     <h3>🔻 Hit me up on LinkedIn or check out my WellFound! 🔻</h3>
     <a href='https://www.linkedin.com/in/allen-faughn/'><img src='https://shields.io/badge/linkedIn-allenfaughn-blue?logo=linkedin&style=for-the-badge'></a>
-    <a href='https://angel.co/u/allen-faughn'><img src='https://shields.io/badge/AngelList-allenfaughn-blue?logo=angellist&style=for-the-badge'></a>
+    <a href='[[https://angel.co/u/allen-faughn](https://wellfound.com/u/allen-faughn)](https://wellfound.com/u/allen-faughn)'><img src='https://shields.io/badge/WellFound-allenfaughn-blue?logo=wellfound&style=for-the-badge'></a>
   </div>
   <div>
     <br>
