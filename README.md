@@ -3,7 +3,7 @@
   <h3 align='center'>🦖🦕🦖🦕🦖🦕</h3>
   <br>
   <sup><p align='center'>>Queue Dramatic Music</p></sup>
-  <p align='center' >I'm a Junior Software Engineer graduated from App Academy in August of 2022. I love coding and gaming, (usually Kenshi or Overwatch 2). When the right indie title gets my gears turning, I sometimes make a few cheeky modifications of my own ⚙️🔧. I have an affinity for Horror and my favorite holiday is 🦴💀Spooky Day!💀🦴</p> 
+  <p align='center' >Junior Software Engineer graduated from App Academy in August of 2022. I love coding and gaming (A little bit of everything!). When the right indie title like Inscryption gets my gears turning, I sometimes make a few cheeky modifications of my own ⚙️🔧. I have an affinity for Horror and my favorite holiday is 🦴💀Spooky Day!💀🦴</p> 
   <h3 align='center'>Technologies I'm Familiar With</h3>
   <div align='center'>
     <img src='https://img.shields.io/badge/-Python-gray?logo=python&style=for-the-badge'> <!--- Python !--->
