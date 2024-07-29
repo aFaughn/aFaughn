@@ -3,7 +3,7 @@
   <h3 align='center'>🦖🦕🦖🦕🦖🦕</h3>
   <br>
   <sup><p align='center'>>Queue Dramatic Music</p></sup>
-  <p align='center' >Junior Software Engineer graduated from App Academy in August of 2022. I love coding and gaming (A little bit of everything!). When the right indie title like Inscryption gets my gears turning, I sometimes make a few cheeky modifications of my own ⚙️🔧. I have an affinity for Horror and my favorite holiday is 🦴💀Spooky Day!💀🦴</p> 
+  <p align='center' >Junior Software Engineer graduated from App Academy in August of 2022. Coding and gaming are my two biggest passions (and they often overlap with eachother). My favorite game is Inscryption by Daniel Mullins, and my favorite language is JavaScript (please don't beat me up and take my lunch money, JS haters).</p> 
   <h3 align='center'>Technologies I'm Familiar With</h3>
   <div align='center'>
     <img src='https://img.shields.io/badge/-Python-gray?logo=python&style=for-the-badge'> <!--- Python !--->
@@ -27,7 +27,7 @@
     <h2>Things I Do When I'm Not Coding</h2>
       <li>Be a human cat bed 🐱
       <li>Dehydrate my sense of humor
-    <li>Read Horror Novels. Currently Reading: <i>The Gunslinger</i> by Stephen King
+      <li>Read Horror; Just finished Reading: <i>House of Leaves</i> by Mark Z. Danielewski
       <li>Indulge a crippling crab-leg addiction 🦀
   </div>
   <div align='center'>
