@@ -16,6 +16,8 @@
     <img src='https://img.shields.io/badge/-postgreSQL-gray?logo=postgresql&style=for-the-badge'> <!--- PostgreSQL !-->
     <img src='https://img.shields.io/badge/-HTML5-gray?logo=html5&style=for-the-badge'> <!--- HTML5 !-->
     <img src='https://img.shields.io/badge/-CSS3-gray?logo=css3&style=for-the-badge'> <!--- CSS3 !-->
+    <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=gray'> <!--- GIT !-->
+    <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=gray'> <!--- LINUX !-->
   </div>
   <div align='center'>
     <h2>Projects I'm working on</h2>
